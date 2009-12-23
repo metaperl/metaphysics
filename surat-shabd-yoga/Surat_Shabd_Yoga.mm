@@ -1,7 +1,7 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1261581925625" ID="ID_825441848" MODIFIED="1261581941015" TEXT="Surat Shabd Yoga">
-<node COLOR="#000000" CREATED="1261585970437" ID="ID_1829215641" MODIFIED="1261585982390" POSITION="right" TEXT="Rebazar Tarzs">
+<node CREATED="1261581925625" ID="ID_825441848" MODIFIED="1261590449125" TEXT="Surat Shabd Yoga">
+<node COLOR="#000000" CREATED="1261585970437" ID="ID_1829215641" MODIFIED="1261592534500" POSITION="right" TEXT="Rebazar Tarzs">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -11,7 +11,8 @@
       &#194;&#160;Rebazar Tarzs&#194;&#160;: The officially-designated &#226;&#8364;&#339;torchbearer&#226;&#8364;&#65533; (for continuity) of Eckankar in the lower worlds; the spiritual teacher of many ECK masters including Peddar Zaskq, or Paul Twitchell, to whom he handed the Rod of ECK Power in 1965. Said to be over five hundred years old, Rebazar Tarzs was Tibetan by birth and lives in a hut in the Hindu Kush mountains. He is said to be about 5 feet 10 inches tall, with an athletic physique, dark skin, closely-cropped black hair and beard, and piercing black eyes. (See the section on Accusations of Plagiarism concerning where words ascribed to Rebazar Tarzs first appeared in print.)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
 <node COLOR="#000000" CREATED="1261585970437" HGAP="0" MODIFIED="1261585970437" TEXT="Paul Twitchell">
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
@@ -28,8 +29,18 @@
 </html>
 </richcontent>
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
-<node COLOR="#000000" CREATED="1261585970437" HGAP="0" MODIFIED="1261585970437" TEXT="Darwin Gross">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left">When Darwin Gross resigned from Eckanckar, he formed ATOM </p></body></html></richcontent>
+<node COLOR="#000000" CREATED="1261585970437" HGAP="0" ID="ID_229119614" MODIFIED="1261592542468" TEXT="Darwin Gross">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      When Darwin Gross resigned from Eckanckar, he formed ATOM&#194;&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
 <node COLOR="#000000" CREATED="1261585970437" HGAP="0" MODIFIED="1261585970437" TEXT="Harold Klemp (Eckanckar)">
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
@@ -39,15 +50,34 @@
 http://atom.org</p></body></html></richcontent>
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
 </node>
+<node CREATED="1261592542468" ID="ID_1189991983" LINK="http://www.dhunami.org/" MODIFIED="1261592640000" TEXT="Paul Marche (Dhunami)"/>
 </node>
-<node COLOR="#000000" CREATED="1261585970437" HGAP="0" LINK="http://www.thetruth-seeker.com/" MODIFIED="1261585970437" TEXT="Ford Johnson">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left">
-http://www.thetruth-seeker.com/</p></body></html></richcontent>
+<node COLOR="#000000" CREATED="1261585970437" HGAP="0" ID="ID_468894158" LINK="http://www.thetruth-seeker.com/" MODIFIED="1261592538203" TEXT="Ford Johnson">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      http://www.thetruth-seeker.com/
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
 </node>
-<node COLOR="#000000" CREATED="1261585970437" HGAP="0" LINK="http://www.thewayoftruth.org/" MODIFIED="1261585970437" TEXT="Michael Owens">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left">
-http://www.thewayoftruth.org/</p></body></html></richcontent>
+<node COLOR="#000000" CREATED="1261585970437" HGAP="0" ID="ID_1873319196" LINK="http://www.thewayoftruth.org/" MODIFIED="1261592536968" TEXT="Michael Owens">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      http://www.thewayoftruth.org/
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
 </node>
 <node COLOR="#000000" CREATED="1261585970437" HGAP="0" MODIFIED="1261585970437" TEXT="Jerry Mulvin">
@@ -64,7 +94,7 @@ http://groups.yahoo.com/group/SFS/</p></body></html></richcontent>
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
 </node>
 <node CREATED="1261586400453" ID="ID_1659517307" MODIFIED="1261586416984" TEXT="Sri Fubbi Quantz">
-<node CREATED="1261586417000" ID="ID_1964414673" MODIFIED="1261586436328" TEXT="Tim Arnold (AKATHA)"/>
+<node CREATED="1261586417000" ID="ID_1964414673" LINK="http://www.akatha.org/" MODIFIED="1261592668218" TEXT="Tim Arnold (AKATHA)"/>
 </node>
 </node>
 <node COLOR="#000000" CREATED="1261585970437" HGAP="0" LINK="http://www.msia.org/" MODIFIED="1261585970437" TEXT="MSIA">
@@ -74,7 +104,7 @@ http://www.msia.org/</p></body></html></richcontent>
 </node>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1261586192750" ID="ID_331464081" MODIFIED="1261586199984" POSITION="left" TEXT="Shiv Dayal Singh">
+<node COLOR="#000000" CREATED="1261586192750" FOLDED="true" ID="ID_331464081" MODIFIED="1261587079687" POSITION="left" TEXT="Shiv Dayal Singh">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -356,7 +386,7 @@ http://www.ruhanisatsangusa.org/</p></body></html></richcontent>
 </node>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1261586214593" ID="ID_1961834424" MODIFIED="1261586218250" POSITION="right" TEXT="Bhagat Thind Singh">
+<node COLOR="#000000" CREATED="1261586214593" ID="ID_1961834424" MODIFIED="1261592688968" POSITION="right" TEXT="Bhagat Thind Singh">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -366,7 +396,8 @@ http://www.ruhanisatsangusa.org/</p></body></html></richcontent>
       &#194;&#160;http://www.bhagatsinghthind.com/
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
 <node COLOR="#000000" CREATED="1261586214593" HGAP="0" LINK="http://www.EurekaSociety.com" MODIFIED="1261586214593" TEXT="The Eureka Society">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> The founder of the Eureka Society, Bruce Avenell, became acquainted with Inner Light and Sound via two Sikh masters \footnote{He received initiation from Kirpal Singh and ran one of his California centers. He also worked with Dr. Bhagat Singh Thind, whom he felt knew more than Kirpal Singh} In the process, he experienced several of his past lives in Egypt. He also felt that he had developed more awareness than his masters and had direct perception that the guru-chela situation was a form of control \cite{yg505}. Over time, he stripped away the devotional aspects of Inner Light and Sound practice and integrated Egyptian sound practice as well. Mr. AVenell has an optimistic outlook on sexual expression and spirituality. His book ``The Colors of Love'' and the booklet ``Adventures In Understanding the Emotional Spectrums of Love \&amp; Erotica'' are truly a step away from most spiritual Light and Sound paths. For example in Sant Kirpal Singh's small booklet on moral behavior he says to avoid eye contact with the opposite sex. While clearly sexuality is more taboo in the East, another motivating factor for sexual continence is to take the precious energy used to create us and send it upwards to return home. However, Audinometry places a premium on Spiritual Energy Management:\begin{quotation}    When you have learned how to keep from running out of gas, you are free to explore the great universe of universes as a free being in your own right.  This means you will have a cosmic "driver's license", unlimited energy and all the time you need.     This energy management gives one the power to move vertically in the spiritual realms and in so doing, one finds that the higher in the spiritual realms one goes, the finer and more fun the experience of life is.          When you have learned to master the fire of your own life, you will have become a divine being in your own right, your birthright from times beginning.\end{quotation}The Eureka Society provides Audinometry which they dub as a Science of Om. My immediate question about such a group is based on my understanding that Om is the creator of the 3 lowest worlds - physical, astral, and causal. Another more attractive definition of Audinometry is ``... the science of measuring, comprehending, controlling and experiencing the sonic chords and light spectrums within your being''.This group has been around for more than 30 years and there is absolutely no cult controversy anywhere about them. And the modest regular fee they charge saves you from wondering about where the money for books and seminars, etc come from.
@@ -387,7 +418,7 @@ http://meditativezone.com/About_Us.htm</p></body></html></richcontent>
 </node>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1261585462828" ID="ID_753005195" MODIFIED="1261585481953" POSITION="left" TEXT="Shabad Misc">
+<node COLOR="#000000" CREATED="1261585462828" ID="ID_753005195" MODIFIED="1261592690968" POSITION="left" TEXT="Shabad Misc">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -397,7 +428,8 @@ http://meditativezone.com/About_Us.htm</p></body></html></richcontent>
       &#194;&#160;Sources:* http://www.ex-premie.org/papers/lineage1.htm &quot;Servants of God: Lives of the 10 Sikh Gurus&quot; by Jon Engle helped quite a bit in this section
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
 <node COLOR="#000000" CREATED="1261585462828" HGAP="0" ID="ID_1184459890" LINK="http://www.ex-premie.org/papers/lineage1.htm" MODIFIED="1261585484265" TEXT="Swarup Anand">
 <richcontent TYPE="NOTE"><html>
@@ -471,9 +503,18 @@ http://godsdirectcontact.org/</p></body></html></richcontent>
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
 <node COLOR="#000000" CREATED="1261585462843" HGAP="0" MODIFIED="1261585462843" TEXT="Santsevi Ji">
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
-<node COLOR="#000000" CREATED="1261585462843" HGAP="0" LINK="http://www.thewayofsages.com" MODIFIED="1261585462843" TEXT="Don &amp;amp; Veena Howard">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left">
-http://www.thewayofsages.com</p></body></html></richcontent>
+<node COLOR="#000000" CREATED="1261585462843" HGAP="0" ID="ID_1774686466" LINK="http://www.thewayofsages.com" MODIFIED="1261587056359" TEXT="Don and Veena Howard">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      http://www.thewayofsages.com
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="Dialog" SIZE="12"/>
 </node>
 </node>
