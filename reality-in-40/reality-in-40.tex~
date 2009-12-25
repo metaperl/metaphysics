@@ -1,5 +1,7 @@
 \documentclass[12pt]{report}
 \usepackage{hyperref}   % use for hypertext links, including those to external documents and URLs
+\usepackage{makeidx} 
+\makeindex
 
 \begin{document}
 
@@ -7,7 +9,10 @@
 \author{Ramana Maharishi}
 \maketitle
 
+
 \tableofcontents
+
+\chapter{Introduction}
 
 \chapter{Invocation}
 
@@ -15,6 +20,68 @@
 \section{ii}
 
 \chapter{Text}
+
+\section{15}
+
+\begin{quote}
+On the present the past and the future stand. They too are the present
+in their times. Thus the present alone exists. Ignoring the present,
+and seeking to know the past and the future, is like trying to count
+without the initial unit.
+\end{quote}
+
+The present \emph{is} always, for even the past was the present in its
+time, and so also will the future be the present in \emph{its}
+time. Whatever happens therefore happens only in the present. When
+Methuselah was born, he was born in the present, and when he died
+after 9 or 10 centuries he died also in the present, despite the later
+date. Similarly all that happened to him between those two events
+happened also in the present. Thus the present is the only significant
+tense in actuality. Moreover, let us not forget the fact that time is
+made of instants which are so minute as to have no room either for a
+past or for a future, but for the present alone. The next verse will
+tell us that even the present is unreal, being one of the notions of
+our mind, as past and future are --- acts of our memory.
+
+\index{present}
+\index{future}
+\index{past}
+
+\section{16}
+
+\begin{quote}
+Do time and space exist apart from us? If we are the body we are
+affected by time and space. But are we the body? We are the same now,
+then and forever.
+\end{quote}
+
+\index{time}\index{space}\index{body}
+
+Of course time and space are mere concepts in us. Because in our long
+journey in life we pass through multitudes of experiences, we have to
+conceive past, present and future in order to arrange them
+conveniently in their sequence of occurence in our memory. Because we
+perceive multiplicity, we have to conceive a space in which to
+accomodate them, like the screen on which cinematograph pictures are
+spread. Without a screen there can be no pictures. The screen on which
+the universe actually appears and moves is thus our own mind, from
+which it emanates as thoughts, either of external physical objects, or
+of internal concepts, sensations, emotions, including the senses of
+time and space. 
+
+Those who take themselves for the body take \emph{time} to be the
+creator and destroyer of all things, and thus it inspires them with
+great fear --- fear of future calamaties, of death, of loss of fortune
+and position, or whatever it may be. Many of them consult astrologers
+to read the decrees of time and foretell events long in advance of
+their occurrence. To them birth, youth, old age and death; creation,
+preservation and dissolution; past, present and future; health and
+disease, prosperity and adversity all exist without the shadow of a
+doubt: they fall prey to time and its vagaries. The others who know
+themselves to be pure spirit are bodiless, timeless and spaceless; and
+Bhagavan affirms, they are thus free from the hallucination of ``We
+alone are; time and space are not''.
+
 
 \section{23}
 
@@ -30,6 +97,12 @@ or in sleep or swoon - as the man who himself wakes, swoons and
 sleeps. To know the true nature of this perennial ``I'', we have to
 conduct an inquiry into its source.
 
+\index{body}
+\index{sleep}
+\index{inquiry}
+\index{I}
 
+\chapter{Index}
+\printindex
 
 \end{document}
