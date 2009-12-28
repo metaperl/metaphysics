@@ -1,0 +1,2 @@
+/* can survive without adequate heat for 1 second */
+survive_without(heat,1).
