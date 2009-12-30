@@ -1,4 +1,4 @@
-This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2007.7.29)  25 DEC 2009 13:36
+This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2007.7.29)  29 DEC 2009 20:26
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -125,12 +125,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 11.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./reality-in-40.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
 \tf@toc=\write5
 \openout5 = `reality-in-40.toc'.
+
 
 ./reality-in-40.tex:15: pdfTeX warning (ext4): destination with the same identi
 fier (name{page.1}) has been already used, duplicate ignored
@@ -151,27 +156,34 @@ Chapter 2.
 Chapter 3.
 [4
 
-] [5] [6] [7]
+]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ” in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ” in font cmr12!
+ [5] [6] [7] [8]
 Chapter 4.
-(./reality-in-40.ind [8
+(./reality-in-40.ind [9
 
-] [9
+] [10
 
 
 ]) (./reality-in-40.aux) ) 
 Here is how much of TeX's memory you used:
- 1968 strings out of 94500
- 26943 string characters out of 1176766
+ 1994 strings out of 94500
+ 27241 string characters out of 1176766
  74688 words of memory out of 1000000
- 5146 multiletter control sequences out of 10000+50000
- 7399 words of font info for 26 fonts, out of 500000 for 2000
+ 5159 multiletter control sequences out of 10000+50000
+ 10144 words of font info for 35 fonts, out of 500000 for 2000
  580 hyphenation exceptions out of 1000
  27i,6n,36p,235b,214s stack positions out of 1500i,500n,5000p,200000b,5000s
 PDF statistics:
- 110 PDF objects out of 300000
- 22 named destinations out of 131072
- 97 words of extra memory for PDF output out of 65536
+ 132 PDF objects out of 300000
+ 27 named destinations out of 131072
+ 105 words of extra memory for PDF output out of 65536
 </usr/share/texmf/fonts/type1/bluesky/cm/cmti12.pfb><
 /usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/type
 1/bluesky/cm/cmr12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr17.pfb>
-Output written on reality-in-40.pdf (10 pages, 49024 bytes).
+Output written on reality-in-40.pdf (11 pages, 55627 bytes).
