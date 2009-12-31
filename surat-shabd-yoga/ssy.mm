@@ -224,15 +224,35 @@ http://www.msia.org/</p></body></html></richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Narayan Dei">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> Ministry: 1878 to 1894Successors:none (or, at least, no one popularly known).Center:Panni Gali, AgraDistinctions:Wife and successor of Shiv Dayal Singh. One of only a few women in the Radhasoami tradition to be accorded an elevated status within the spiritual community. Served as a guru and a guide to women devotees in Agra. Instrumental in helping her husband's ministry.Sources: Radhasoami Faith: History and Tenets ; Biography of Soamiji Maharaj by Chachaji Maharaj [Pratap Singh]; and Holy Epistles (Volumes One and Two).</p></body></html></richcontent>
 </node>
-<node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Jaimal Singh">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left"> Ministry:1884 to 1903 [Although Jamail Singh is reported to have started initiating at an earlier date, the name of his first initiates are not available]Guru:Shiv Dayal SinghSuccessors:Sawan Singh; Bagga SinghCenter:Dera Baba Jaimal Singh, BeasDistinctions:Founder of the Beas lineage, the most popular Radhasoami group in the world.Sources:A Great Saint; Spiritual Letters; and Heaven on Earth.</p></body></html></richcontent>
+<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_1063108696" MODIFIED="1262240667330" TEXT="Jaimal Singh">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      &#194;&#160;Ministry:1884 to 1903 [Although Jamail Singh is reported to have started initiating at an earlier date, the name of his first initiates are not available]Guru:Shiv Dayal SinghSuccessors:Sawan Singh; Bagga SinghCenter:Dera Baba Jaimal Singh, BeasDistinctions:Founder of the Beas lineage, the most popular Radhasoami group in the world.Sources:A Great Saint; Spiritual Letters; and Heaven on Earth.
+    </p>
+  </body>
+</html>
+</richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Sawan Singh">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> Ministry:1903 to 1948 [Retired from Army service, however, in 1911, at which time he established residency at the Dera]Guru:Jaimal SinghSuccessors:Jagat Singh; Kirpal Singh; Pritam Das; Mastanaji of BaluchistanCenter:Dera Baba Jaimal Singh, BeasDistinctions:Perhaps the most influential Radhasoami guru of the 20th century; responsible for developing the largest Radhasoami group in the world.Sources:Glimpses of the Great Master; Heaven on Earth; and Spiritual Gems. </p></body></html></richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" LINK="http://radhasoamis.freeyellow.com/" MODIFIED="1261586192765" TEXT="Jagat Singh">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left">
 http://radhasoamis.freeyellow.com/</p></body></html></richcontent>
-<node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Charan Singh (a)">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left"> Maharaj Ji Charan SinghMinistry:1951 to 1990 [Started initiating in 1953]Guru:Sawan SinghSuccessors:Gurinder SinghCenter:Dera Baba Jaimal Singh, BeasDistinctions:Initiated the largest number of seekers in the history of Radhasoami; one of the most popular gurus in Indian history.Sources:Treasure Beyond Measure; The Living Master; and Light on Sant Mat.</p></body></html></richcontent>
+<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_1937155648" MODIFIED="1262240819033" TEXT="Charan Singh (a)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      &#194;&#160;Maharaj Ji Charan SinghMinistry:1951 to 1990 [Started initiating in 1953]Guru:Sawan SinghSuccessors:Gurinder SinghCenter:Dera Baba Jaimal Singh, BeasDistinctions:Initiated the largest number of seekers in the history of Radhasoami; one of the most popular gurus in Indian history.Sources:Treasure Beyond Measure; The Living Master; and Light on Sant Mat.
+    </p>
+  </body>
+</html>
+</richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" LINK="http://www.rssb.org/" MODIFIED="1261586192765" TEXT="Gurinder Singh">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left">Master Gurinder SinghMinistry:1990 to presentGuru:Charan SinghSuccessors:n/aCenter:Dera Baba Jaimal Singh, BeasDistinctions:Nephew of Charan Singh and great grandson of Sawan Singh; born on August 1, 1954, Gurinder is one of the youngest gurus in the Radhasoami tradition. Now heads the largest Radhasoami-related organization in history.Sources:Special issues of R.S. Greetings and Science of the Soul.
 http://www.rssb.org/</p></body></html></richcontent>
@@ -240,16 +260,35 @@ http://www.rssb.org/</p></body></html></richcontent>
 </node>
 </node>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Kirpal Singh">
-<node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Darshan Singh (a)">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left"> Sant Darshan SinghMinistry:1974 to 1989Guru:Sawan SinghSuccessors:Rajinder SinghCenter:Sawan-Kirpal Mission, Vijay Nagar, DelhiDistinctions:Son of Kirpal Singh; accomplished Urdu poet; and founder of Sawan-Kirpal Mission.Sources:A Brief Biography of Darshan Singh; The Beloved Master; and The Secret of Secrets.</p></body></html></richcontent>
+<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_276284136" MODIFIED="1262240813127" TEXT="Darshan Singh (a)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      &#194;&#160;Sant Darshan SinghMinistry:1974 to 1989Guru:Sawan SinghSuccessors:Rajinder SinghCenter:Sawan-Kirpal Mission, Vijay Nagar, DelhiDistinctions:Son of Kirpal Singh; accomplished Urdu poet; and founder of Sawan-Kirpal Mission.Sources:A Brief Biography of Darshan Singh; The Beloved Master; and The Secret of Secrets.
+    </p>
+  </body>
+</html>
+</richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" LINK="http://www.sos.org/" MODIFIED="1261586192765" TEXT="Rajinder Singh (b)">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left">  Sant Rajinder SinghMinistry:1989 to presentGuru:Kirpal SinghSuccessors:n/aCenter:Delhi, India; Chicago, IllinoisDistinctions:Eldest son of Darshan Singh; grandson of Kirpal Singh. Lived for almost two decades in the United States; divides his time between Delhi and Chicago.Sources:Sat Sandesh.
 http://www.sos.org/</p></body></html></richcontent>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1261586192765" HGAP="0" LINK="http://en.wikipedia.org/wiki/Thakar_Singh" MODIFIED="1261586192765" TEXT="Thakar Singh">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left"> Sant Thakar SinghMinistry:1974 to presentGuru:Kirpal SinghSuccessors:n/aCenter:Delhi; Chandigarh, Pimpernel, Oregon, Kinderhook, LA. USA. Vienna, Oberbrunn: GermanyDistinctions:Erika'sGuru  :-)  :-)  :-)Sources:"A Brief Biography of Mine."
-http://en.wikipedia.org/wiki/Thakar_Singh</p></body></html></richcontent>
+<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_888975310" LINK="http://en.wikipedia.org/wiki/Thakar_Singh" MODIFIED="1262240812892" TEXT="Thakar Singh">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      &#194;&#160;Sant Thakar SinghMinistry:1974 to presentGuru:Kirpal SinghSuccessors:n/aCenter:Delhi; Chandigarh, Pimpernel, Oregon, Kinderhook, LA. USA. Vienna, Oberbrunn: GermanyDistinctions:Erika'sGuru&#194;&#160;&#160;:-)&#194;&#160;&#160;:-)&#194;&#160;&#160;:-)Sources:&quot;A Brief Biography of Mine.&quot; http://en.wikipedia.org/wiki/Thakar_Singh
+    </p>
+  </body>
+</html>
+</richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" LINK="http://www.knowthyselfassoul.org/" MODIFIED="1261586192765" TEXT="Baljit Singh">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left">
 http://www.knowthyselfassoul.org/</p></body></html></richcontent>
@@ -267,9 +306,18 @@ http://groups.yahoo.com/group/sadhuramjigroup/</p></body></html></richcontent>
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> R. Harbhajan SinghMinistry:1974 to ?Guru:Kirpal SinghSuccessors:??Center:AmritsarDistinctions:Started to initiate new seekers into the path of Sant Mat by means of tape-recorded initiation session of the late Kirpal Singh.Sources:David C. Lane, Radhasoami Mat.
 http://www.unity-of-man.org/</p></body></html></richcontent>
 </node>
-<node COLOR="#000000" CREATED="1261586192765" HGAP="0" LINK="http://www.ruhanisatsangusa.org/" MODIFIED="1261586192765" TEXT="Ruhani Satsang">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left">Divine Science of the Soul - Ruhani Satsang, Inc.Ministry:1974 to presentGuru:Kirpal SinghSuccessors:n/aCenter:Anaheim, CaliforniaDistinctions:Organizational board which does not formally endorse any guru as Kirpal Singh's rightful successor.Sources:David C. Lane's correspondence with Ruhani Satsang, Inc., Anaheim, California.
-http://www.ruhanisatsangusa.org/</p></body></html></richcontent>
+<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_813689003" LINK="http://www.ruhanisatsangusa.org/" MODIFIED="1262240652877" TEXT="Ruhani Satsang">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      Divine Science of the Soul - Ruhani Satsang, Inc.Ministry:1974 to presentGuru:Kirpal SinghSuccessors:n/aCenter:Anaheim, CaliforniaDistinctions:Organizational board which does not formally endorse any guru as Kirpal Singh's rightful successor.Sources:David C. Lane's correspondence with Ruhani Satsang, Inc., Anaheim, California. http://www.ruhanisatsangusa.org/
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Walter Baptiste"/>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Paul Twitchell">
@@ -285,24 +333,57 @@ http://www.ruhanisatsangusa.org/</p></body></html></richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Pritam Das">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> Pritam DasMinistry:UnclearGuru:Sawan SinghSuccessors:??Center:UjjainDistinctions:Former guru in his own right before resigning his post and receiving initiation from Sawan Singh of Beas.Sources:With a Great Master in India.</p></body></html></richcontent>
 </node>
-<node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Mastanaji">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left"> Mastanaji Mastana of BaluchitanMinistry:1948 to early 1960'sGuru:Sawan SinghSuccessors:Satnam MaharajCenter:BaluchistanDistinctions:It is not known when Mastanaji began giving initiation on his own, as he brought seekers to Jagat Singh at Radhasoami Satsang Beas after Sawan Singh's death. His initiates were primarily from his own district. He died in 1960. Sri Satnam Ji Maharaj served as Mastanaji's successor. The name of the group is Sacha Sauda and a number of Hindi books have been published by them.Sources:With the Three Masters (Volumes Two and Three).</p></body></html></richcontent>
-<node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Satnam Maharaj"/>
+<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_1346970793" MODIFIED="1262240639220" TEXT="Shah Mastana Ji">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      &#194;&#160;Mastanaji Mastana of BaluchitanMinistry:1948 to early 1960'sGuru:Sawan SinghSuccessors:Satnam MaharajCenter:BaluchistanDistinctions:It is not known when Mastanaji began giving initiation on his own, as he brought seekers to Jagat Singh at Radhasoami Satsang Beas after Sawan Singh's death. His initiates were primarily from his own district. He died in 1960. Sri Satnam Ji Maharaj served as Mastanaji's successor. The name of the group is Sacha Sauda and a number of Hindi books have been published by them.Sources:With the Three Masters (Volumes Two and Three).
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_1850612007" MODIFIED="1261586192765" TEXT="Satnam Maharaj"/>
+<node CREATED="1262240645174" ID="ID_575766811" LINK="http://www.spiritualitymba.com/" MODIFIED="1262240673549" TEXT="Gurbakhsh Singh">
+<node CREATED="1262240685080" ID="ID_321634384" MODIFIED="1262240688924" TEXT="Dasan Das Vakil"/>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Bagga Singh">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left"> Ministry:1903 to 1944Guru:Jaimal SinghSuccessors:Deva SinghCenter:Tarn Taran, PunjabDistinctions:Minority successor of Jaimal Singh; celibate; close association with Sawan Singh of Beas.Sources:David C. Lane's personal interviews with the Chawla Family, Orange County, 1988. With the Three Masters (Volume Two).</p></body></html></richcontent>
+</node>
+<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_1781348600" MODIFIED="1262240676595" TEXT="Bagga Singh">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      &#194;&#160;Ministry:1903 to 1944Guru:Jaimal SinghSuccessors:Deva SinghCenter:Tarn Taran, PunjabDistinctions:Minority successor of Jaimal Singh; celibate; close association with Sawan Singh of Beas.Sources:David C. Lane's personal interviews with the Chawla Family, Orange County, 1988. With the Three Masters (Volume Two).
+    </p>
+  </body>
+</html>
+</richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Deva Singh">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> Ministry:1944 to 1961Guru:Bagga SinghSuccessors:Sadhu Singh; Partap SinghCenter:Tarn Taran, PunjabDistinctions:Appointed by Sawan Singh of Radhasoami Satsang Beas in 1944.Sources:With the Three Masters (Volume One and Two)</p></body></html></richcontent>
-<node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Sadhu Singh">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left"> Ministry:1961 to Mid-1970'sGuru:Bagga SinghSuccessors:Teja SinghCenter:FirozpurDistinctions:First acknowledged successor of Deva Singh at Tarn Tarn; celibate.Sources:David C. Lane's personal interviews with the Chawla family.</p></body></html></richcontent>
+<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_1083939837" MODIFIED="1262240639720" TEXT="Sadhu Singh">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      &#194;&#160;Ministry:1961 to Mid-1970'sGuru:Bagga SinghSuccessors:Teja SinghCenter:FirozpurDistinctions:First acknowledged successor of Deva Singh at Tarn Tarn; celibate.Sources:David C. Lane's personal interviews with the Chawla family.
+    </p>
+  </body>
+</html>
+</richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Teja Singh">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> Maharaj Teja SinghMinistry:Mid-1970's to presentGuru:Sadhu SinghSuccessors:n/aCenter:Firozpur, PunjabDistinctions:Waited almost a decade after his appointment in the mid-1970's to commence initiation.Sources:David C. Lane's interviews with the Chawla family.</p></body></html></richcontent>
 </node>
 </node>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Pratap Singh (c)">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> Pratap Singh - Saint of Tarn TaranMinistry:1961 to 1988Guru:Bagga SinghSuccessors:Son (blood lineage)Center:Tarn Taran, PunjabDistinctions:Appointed after there was a political dispute over the selection of Sadhu Singh. Kept ties with Charan Singh of Radhasoami Satsang Beas.Sources:"The Enchanted Land" by David C. Lane.</p></body></html></richcontent>
-<node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="the son"/>
+<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_647959480" MODIFIED="1261586192765" TEXT="the son"/>
 </node>
 </node>
 </node>
