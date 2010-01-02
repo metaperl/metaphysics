@@ -52,8 +52,7 @@ http://atom.org</p></body></html></richcontent>
       http://www.thetruth-seeker.com/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#000000" CREATED="1261585970437" HGAP="0" ID="ID_1873319196" LINK="http://www.thewayoftruth.org/" MODIFIED="1261592536968" TEXT="Michael Owens">
 <richcontent TYPE="NOTE"><html>
@@ -82,8 +81,7 @@ http://www.masterpath.org/</p></body></html></richcontent>
       http://groups.yahoo.com/group/SFS/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1261586400453" ID="ID_1659517307" MODIFIED="1261586416984" TEXT="Sri Fubbi Quantz">
 <node CREATED="1261586417000" ID="ID_1964414673" LINK="http://www.akatha.org/" MODIFIED="1261592668218" TEXT="Tim Arnold (AKATHA)"/>
@@ -105,8 +103,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Ministry:Mid-1850's to 1878.Guru:Tulsi Sahib of Hathras (according to Beas); no guru (according to Soami Bagh and Dayal Bagh).Successors:Rai Salig Ram; Jaimal Singh; Gharib Das; Sanmukh Das; Partap Singh; and Narayan Dei (Radhaji).Center:Panni Gali and Soami Bagh, Agra.Distinctions:Regarded as the founder of Radhasoami; popularized surat shabd yoga; expressed the teachings of Sant mat in a simplified and easy to understand manner.Sources:Sar Bachan Radhasoami (both the prose and poetry volumes) by Soamiji Maharaj; Biography of Soamiji Maharaj by Chachaji Maharaj [Partap Singh]; and Last Discourse of Soamiji Maharaj and Letters of Soamiji Maharaj &amp; Huzur Maharaj . http://www.radhasoami-faith.info/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#000000" CREATED="1261586192750" HGAP="0" MODIFIED="1261586192750" TEXT="Rai Salig Ram">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> Ministry:Early 1880's to 1898 [apparently started gathering his own initiates around 1884]Guru:Shiv Dayal SinghSuccessors:Brahm Shankar Misra; Ajudhia Prasad; and Shiv Brat Lal.Center:Peepal Mandi, Agra.Distinctions:Responsible for articulating Radhasoami mat as the Supreme Incarnational religion of all time; expanding membership in the Radhasoami movement; publishing the writings of Shiv Dayal Singh as well as his own.Sources:Prem Patra (six volumes) by Huzur Maharaj [Rai Salig Ram]; Biography of Huzur Maharaj by S.D. Maheshwari; and Holy Epistles (Volumes One and Two).</p></body></html></richcontent>
 <node COLOR="#000000" CREATED="1261586192750" HGAP="0" MODIFIED="1261586192750" TEXT="Ajudhia Prasad">
@@ -174,8 +171,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Param Dayal Faqir ChandMinistry:1939 to 1981 [Appointed to serve as a guru, in 1919, though Faqir did not fully assume his role until after his master died]Guru:Shiv Brat LalSuccessors:Dr. I. C. Sharma; and others in lesser capacities (including Yogini Mataji and M. R. Bhagat)Center:Manavta Mandir, HoshiarpurDistinctions:Radical guru in the Radhasoami tradition who developed an unorthodox interpretation of religious visions and miracles, claiming that no guru really knew about appearing to their respective disciples.Sources:The Unknowing Sage; The Secrets of a Faqir; and The Lord as Guru.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Ishwar C. Sharma">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> Ishwar C. SharmaMinistry:1981 to presentGuru:Faqir ChandSuccessors:n/aCenter:Manavta Mandir, HoshiarpurDistinctions:Professor of Philosophy in the United States for a number of years; travels world-wide frequently; fuses New Age teaching with Sant mat.Sources:Manav Mandir, monthly magazine published in Hoshiarpur.</p></body></html></richcontent>
 </node>
@@ -234,14 +230,13 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Ministry:1884 to 1903 [Although Jamail Singh is reported to have started initiating at an earlier date, the name of his first initiates are not available]Guru:Shiv Dayal SinghSuccessors:Sawan Singh; Bagga SinghCenter:Dera Baba Jaimal Singh, BeasDistinctions:Founder of the Beas lineage, the most popular Radhasoami group in the world.Sources:A Great Saint; Spiritual Letters; and Heaven on Earth.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Sawan Singh">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> Ministry:1903 to 1948 [Retired from Army service, however, in 1911, at which time he established residency at the Dera]Guru:Jaimal SinghSuccessors:Jagat Singh; Kirpal Singh; Pritam Das; Mastanaji of BaluchistanCenter:Dera Baba Jaimal Singh, BeasDistinctions:Perhaps the most influential Radhasoami guru of the 20th century; responsible for developing the largest Radhasoami group in the world.Sources:Glimpses of the Great Master; Heaven on Earth; and Spiritual Gems. </p></body></html></richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" LINK="http://radhasoamis.freeyellow.com/" MODIFIED="1261586192765" TEXT="Jagat Singh">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left">
 http://radhasoamis.freeyellow.com/</p></body></html></richcontent>
-<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_1937155648" MODIFIED="1262240819033" TEXT="Charan Singh (a)">
+<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_1937155648" MODIFIED="1262449871695" TEXT="Charan Singh (a)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -270,8 +265,7 @@ http://www.rssb.org/</p></body></html></richcontent>
       &#194;&#160;Sant Darshan SinghMinistry:1974 to 1989Guru:Sawan SinghSuccessors:Rajinder SinghCenter:Sawan-Kirpal Mission, Vijay Nagar, DelhiDistinctions:Son of Kirpal Singh; accomplished Urdu poet; and founder of Sawan-Kirpal Mission.Sources:A Brief Biography of Darshan Singh; The Beloved Master; and The Secret of Secrets.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" LINK="http://www.sos.org/" MODIFIED="1261586192765" TEXT="Rajinder Singh (b)">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left">  Sant Rajinder SinghMinistry:1989 to presentGuru:Kirpal SinghSuccessors:n/aCenter:Delhi, India; Chicago, IllinoisDistinctions:Eldest son of Darshan Singh; grandson of Kirpal Singh. Lived for almost two decades in the United States; divides his time between Delhi and Chicago.Sources:Sat Sandesh.
 http://www.sos.org/</p></body></html></richcontent>
@@ -287,20 +281,29 @@ http://www.sos.org/</p></body></html></richcontent>
       &#194;&#160;Sant Thakar SinghMinistry:1974 to presentGuru:Kirpal SinghSuccessors:n/aCenter:Delhi; Chandigarh, Pimpernel, Oregon, Kinderhook, LA. USA. Vienna, Oberbrunn: GermanyDistinctions:Erika'sGuru&#194;&#160;&#160;:-)&#194;&#160;&#160;:-)&#194;&#160;&#160;:-)Sources:&quot;A Brief Biography of Mine.&quot; http://en.wikipedia.org/wiki/Thakar_Singh
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" LINK="http://www.knowthyselfassoul.org/" MODIFIED="1261586192765" TEXT="Baljit Singh">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left">
 http://www.knowthyselfassoul.org/</p></body></html></richcontent>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1261586192765" HGAP="0" LINK="http://www.ajaib.com/" MODIFIED="1261586192765" TEXT="Ajaib Singh">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left"> Sant Ji Ajaib SinghMinistry:1974 to presentGuru:Kirpal SinghSuccessors:n/aCenter:Sant Bani Ashram, RajasthanDistinctions:Originally initiated by Charan Singh of Radhasoami Satsang Beas in 1953 but; popular successor to Kirpal Singh in the United States and South America.Sources:The Impact of a Saint by Russell Perkins; "Two Fools" by Richard Handel and Arran Stephens; and Support for the Shaken Sangat.Also see: http://www.ajaibbani.org/
-http://www.ajaib.com/</p></body></html></richcontent>
+<node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_814589479" LINK="http://www.ajaib.com/" MODIFIED="1262449876070" TEXT="Ajaib Singh">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      &#194;&#160;Sant Ji Ajaib SinghMinistry:1974 to presentGuru:Kirpal SinghSuccessors:n/aCenter:Sant Bani Ashram, RajasthanDistinctions:Originally initiated by Charan Singh of Radhasoami Satsang Beas in 1953 but; popular successor to Kirpal Singh in the United States and South America.Sources:The Impact of a Saint by Russell Perkins; &quot;Two Fools&quot; by Richard Handel and Arran Stephens; and Support for the Shaken Sangat.Also see: http://www.ajaibbani.org/ http://www.ajaib.com/
+    </p>
+  </body>
+</html>
+</richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" LINK="http://groups.yahoo.com/group/sadhuramjigroup/" MODIFIED="1261586192765" TEXT="Sadhu Ram">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left">* Satsang directory - http://www.ajaib.com/directory.html* Sant Bani Ashram - started with Kirpal Singh and continues through Sadhu Ram - http://www.santbaniashram.org/Satsangs.html* Media Seva - http://www.mediaseva.org/
 http://groups.yahoo.com/group/sadhuramjigroup/</p></body></html></richcontent>
 </node>
+<node CREATED="1262449876070" ID="ID_464042932" LINK="http://www.santbaniashram.it/" MODIFIED="1262449906883" TEXT="Sirio Carrapa"/>
 </node>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" LINK="http://www.unity-of-man.org/" MODIFIED="1261586192765" TEXT="Harbhajan Singh">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> R. Harbhajan SinghMinistry:1974 to ?Guru:Kirpal SinghSuccessors:??Center:AmritsarDistinctions:Started to initiate new seekers into the path of Sant Mat by means of tape-recorded initiation session of the late Kirpal Singh.Sources:David C. Lane, Radhasoami Mat.
@@ -316,8 +319,7 @@ http://www.unity-of-man.org/</p></body></html></richcontent>
       Divine Science of the Soul - Ruhani Satsang, Inc.Ministry:1974 to presentGuru:Kirpal SinghSuccessors:n/aCenter:Anaheim, CaliforniaDistinctions:Organizational board which does not formally endorse any guru as Kirpal Singh's rightful successor.Sources:David C. Lane's correspondence with Ruhani Satsang, Inc., Anaheim, California. http://www.ruhanisatsangusa.org/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Walter Baptiste"/>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Paul Twitchell">
@@ -343,8 +345,7 @@ http://www.unity-of-man.org/</p></body></html></richcontent>
       &#194;&#160;Mastanaji Mastana of BaluchitanMinistry:1948 to early 1960'sGuru:Sawan SinghSuccessors:Satnam MaharajCenter:BaluchistanDistinctions:It is not known when Mastanaji began giving initiation on his own, as he brought seekers to Jagat Singh at Radhasoami Satsang Beas after Sawan Singh's death. His initiates were primarily from his own district. He died in 1960. Sri Satnam Ji Maharaj served as Mastanaji's successor. The name of the group is Sacha Sauda and a number of Hindi books have been published by them.Sources:With the Three Masters (Volumes Two and Three).
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_1850612007" MODIFIED="1261586192765" TEXT="Satnam Maharaj"/>
 <node CREATED="1262240645174" ID="ID_575766811" LINK="http://www.spiritualitymba.com/" MODIFIED="1262240673549" TEXT="Gurbakhsh Singh">
 <node CREATED="1262240685080" ID="ID_321634384" MODIFIED="1262240688924" TEXT="Dasan Das Vakil"/>
@@ -361,8 +362,7 @@ http://www.unity-of-man.org/</p></body></html></richcontent>
       &#194;&#160;Ministry:1903 to 1944Guru:Jaimal SinghSuccessors:Deva SinghCenter:Tarn Taran, PunjabDistinctions:Minority successor of Jaimal Singh; celibate; close association with Sawan Singh of Beas.Sources:David C. Lane's personal interviews with the Chawla Family, Orange County, 1988. With the Three Masters (Volume Two).
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Deva Singh">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> Ministry:1944 to 1961Guru:Bagga SinghSuccessors:Sadhu Singh; Partap SinghCenter:Tarn Taran, PunjabDistinctions:Appointed by Sawan Singh of Radhasoami Satsang Beas in 1944.Sources:With the Three Masters (Volume One and Two)</p></body></html></richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" ID="ID_1083939837" MODIFIED="1262240639720" TEXT="Sadhu Singh">
@@ -375,8 +375,7 @@ http://www.unity-of-man.org/</p></body></html></richcontent>
       &#194;&#160;Ministry:1961 to Mid-1970'sGuru:Bagga SinghSuccessors:Teja SinghCenter:FirozpurDistinctions:First acknowledged successor of Deva Singh at Tarn Tarn; celibate.Sources:David C. Lane's personal interviews with the Chawla family.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#000000" CREATED="1261586192765" HGAP="0" MODIFIED="1261586192765" TEXT="Teja Singh">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> Maharaj Teja SinghMinistry:Mid-1970's to presentGuru:Sadhu SinghSuccessors:n/aCenter:Firozpur, PunjabDistinctions:Waited almost a decade after his appointment in the mid-1970's to commence initiation.Sources:David C. Lane's interviews with the Chawla family.</p></body></html></richcontent>
 </node>
