@@ -1,8 +1,12 @@
+minutes_to_seconds(M,S) :- S is 60*M.
 weeks_to_seconds(W,S) :- D is 7*W, days_to_seconds(D,S).
 days_to_seconds(D,S) :- H is D*24, M is 60*H, S is 60*M.
 
 % Can survive without adequate heat for 1 second 
 survive_without(heat,1).
+
+% Can survivie without air for 15 minutes
+survive_without(air,X) :- minutes_to_seconds(15,X).
 
 % Can survive without water for 7 days (3-5 days cited)
 % http://en.wikipedia.org/wiki/Survival_skills#Water
@@ -23,8 +27,10 @@ more_important(N1,N2,I) :-
 
 % Conclusions (based on survival levels, not necessarily optimal)
 % ---------------------------------------------------------------
+% heat is 1.8 million times more important than food
+% air is 2000 times more important than food
 % water is 3 times more important than food
-% heat is 600,000 times more important than water
+
 
 % Given that the body is 70 percent water, and that every
 % process in the body requires water, it is no surprise that water
