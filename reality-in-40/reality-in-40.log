@@ -1,4 +1,4 @@
-This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2007.7.29)  30 DEC 2009 11:59
+This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2007.7.29)  3 JAN 2010 07:16
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -132,51 +132,51 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
-)
-\tf@toc=\write5
-\openout5 = `reality-in-40.toc'.
 
-
-./reality-in-40.tex:15: pdfTeX warning (ext4): destination with the same identi
+./reality-in-40.toc:28: pdfTeX warning (ext4): destination with the same identi
 fier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \penalty 
-l.15 \chapter
-             {Introduction} [1
+l.28 ...n}{\numberline {3.23}23}{11}{section.3.23}
+                                                   [1
 
-]
+])
+\tf@toc=\write5
+\openout5 = `reality-in-40.toc'.
+
+ [2]
 Chapter 1.
-[2
-
-]
-Chapter 2.
 [3
 
 ]
-Chapter 3.
+Chapter 2.
 [4
 
-] [5] [6] [7] [8]
-Chapter 4.
-(./reality-in-40.ind [9
+]
+Chapter 3.
+[5
 
-] [10
+] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+Chapter 4.
+(./reality-in-40.ind [15
+
+] [16
 
 
 ]) (./reality-in-40.aux) ) 
 Here is how much of TeX's memory you used:
- 1998 strings out of 94500
- 27293 string characters out of 1176766
- 75688 words of memory out of 1000000
- 5163 multiletter control sequences out of 10000+50000
+ 2066 strings out of 94500
+ 28141 string characters out of 1176766
+ 76688 words of memory out of 1000000
+ 5194 multiletter control sequences out of 10000+50000
  10144 words of font info for 35 fonts, out of 500000 for 2000
  580 hyphenation exceptions out of 1000
  27i,6n,36p,235b,214s stack positions out of 1500i,500n,5000p,200000b,5000s
 PDF statistics:
- 148 PDF objects out of 300000
- 27 named destinations out of 131072
- 137 words of extra memory for PDF output out of 65536
+ 328 PDF objects out of 300000
+ 64 named destinations out of 131072
+ 385 words of extra memory for PDF output out of 65536
 </usr/share/texmf/fonts/type1/bluesky/cm/cmti12.pfb><
 /usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/type
 1/bluesky/cm/cmr12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr17.pfb>
-Output written on reality-in-40.pdf (11 pages, 57843 bytes).
+Output written on reality-in-40.pdf (17 pages, 80452 bytes).
