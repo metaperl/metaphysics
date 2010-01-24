@@ -31,7 +31,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_229119614" MODIFIED="1262649801424" TEXT="Darwin Gross">
+<node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_229119614" MODIFIED="1264302216841" TEXT="Darwin Gross">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -41,15 +41,28 @@
       When Darwin Gross resigned from Eckanckar, he formed ATOM&#194;&#160;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_924766965" MODIFIED="1262649801424" TEXT="Harold Klemp (Eckanckar)"/>
 <node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_380719641" LINK="http://atom.org" MODIFIED="1262649801424" TEXT="ATOM">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left">
 http://atom.org</p></body></html></richcontent>
 </node>
 <node COLOR="#111111" CREATED="1261592542468" ID="ID_1189991983" LINK="http://www.dhunami.org/" MODIFIED="1262649801424" TEXT="Paul Marche (Dhunami)"/>
+<node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_1345703741" LINK="http://groups.yahoo.com/group/SFS/" MODIFIED="1264302209279" TEXT="Michael Turner (Spiritual Freedom Satsang)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      http://groups.yahoo.com/group/SFS/
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_468894158" LINK="http://www.thetruth-seeker.com/" MODIFIED="1262649801424" TEXT="Ford Johnson (Higher Consciousness Society)">
+</node>
+<node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_468894158" LINK="http://www.thetruth-seeker.com/" MODIFIED="1264302209951" TEXT="Ford Johnson (Higher Consciousness Society)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -72,25 +85,12 @@ http://atom.org</p></body></html></richcontent>
       http://www.thewayoftruth.org/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_996415554" MODIFIED="1262649801424" TEXT="Jerry Mulvin"/>
 <node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_1951324981" LINK="http://www.masterpath.org/" MODIFIED="1262649801424" TEXT="Gary Olsen">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left">
 http://www.masterpath.org/</p></body></html></richcontent>
-</node>
-<node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_1345703741" LINK="http://groups.yahoo.com/group/SFS/" MODIFIED="1262649801424" TEXT="Michael Turner (Spiritual Freedom Satsang)">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p align="left">
-      http://groups.yahoo.com/group/SFS/
-    </p>
-  </body>
-</html></richcontent>
 </node>
 <node COLOR="#111111" CREATED="1261586400453" ID="ID_1659517307" MODIFIED="1262649801424" TEXT="Sri Fubbi Quantz">
 <node COLOR="#111111" CREATED="1261586417000" ID="ID_1964414673" LINK="http://www.akatha.org/" MODIFIED="1262649801424" TEXT="Tim Arnold (AKATHA)"/>
@@ -113,8 +113,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Ministry:Mid-1850's to 1878.Guru:Tulsi Sahib of Hathras (according to Beas); no guru (according to Soami Bagh and Dayal Bagh).Successors:Rai Salig Ram; Jaimal Singh; Gharib Das; Sanmukh Das; Partap Singh; and Narayan Dei (Radhaji).Center:Panni Gali and Soami Bagh, Agra.Distinctions:Regarded as the founder of Radhasoami; popularized surat shabd yoga; expressed the teachings of Sant mat in a simplified and easy to understand manner.Sources:Sar Bachan Radhasoami (both the prose and poetry volumes) by Soamiji Maharaj; Biography of Soamiji Maharaj by Chachaji Maharaj [Partap Singh]; and Last Discourse of Soamiji Maharaj and Letters of Soamiji Maharaj &amp; Huzur Maharaj . http://www.radhasoami-faith.info/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1261586192750" HGAP="0" ID="ID_648550875" MODIFIED="1262649801439" TEXT="Rai Salig Ram (Hazur Maharaj)">
@@ -127,8 +126,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Ministry:Early 1880's to 1898 [apparently started gathering his own initiates around 1884]Guru:Shiv Dayal SinghSuccessors:Brahm Shankar Misra; Ajudhia Prasad; and Shiv Brat Lal.Center:Peepal Mandi, Agra.Distinctions:Responsible for articulating Radhasoami mat as the Supreme Incarnational religion of all time; expanding membership in the Radhasoami movement; publishing the writings of Shiv Dayal Singh as well as his own.Sources:Prem Patra (six volumes) by Huzur Maharaj [Rai Salig Ram]; Biography of Huzur Maharaj by S.D. Maheshwari; and Holy Epistles (Volumes One and Two).
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1261586192750" HGAP="0" ID="ID_1571057783" MODIFIED="1262649801439" TEXT="Ajudhia Prasad">
@@ -151,8 +149,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Maharaj Saheb Brahm Shankar MisraMinistry:Early 1900's to 1907 [did not succeed Rai Salig Ram immediately, since he was unsure for a year or two who was to be the rightful successor]Guru:Rai Salig RamSuccessors:Maheshwari Devi; Kamta Prasad SinhaCenter:Benaras; AgraDistinctions:Highly educated, receiving his Master of Arts in 1884; founded the Central Administrative Council in 1902 in Agra; and developed the idea of interregnum (period of time when no guru is publically manifested).Sources:Discourses on the Radhasoami Faith by Maharaj Saheb [Brahm Shankar Misra]; Solace to Satsangis by Maharaj Saheb [Brahm Shankar Misra]; and Radhasoami Faith: History and Tenets by S.D. Maheshwari.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1261586192750" HGAP="0" ID="ID_1748790681" MODIFIED="1262649801439" TEXT="Maheshwari Devi">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left"> Buaji Saheb Maheshawari DeviMinistry:1907 to 1913Guru:Rai Salig RamSuccessors:Madhav Prasad Sinha; Yogendra Shankar TewariCenter:BenarasDistinctions:One of the only women in Radhasoami to be acknowledged as a Sat Guru. Brahm Shankar Misra's sister and a follower of the purdah system--the custom of not allowing women to go out in public. Close confidant and immediate predecessor to Madhav Prasad Sinha.Sources:Biography of Buaji Saheba by S.D. Maheshwari; Radhasoami Faith: History and Tenets by S.D. Maheshwari; and Redemptive Encounters by Lawrence A. Babb.</p></body></html></richcontent>
@@ -185,8 +182,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Sarkar Saheb Kamta P. SinhaMinistry:1907 to 1913 [Did not emerge as a full fledged successor to Brahm Shankar Misra, however, until a couple years after his death]Guru:Rai Salig RamSuccessors:Anand Sarup; Hari Ram; Indar Singh; and Shri ParmanandCenter:GhazipurDistinctions:Key rival to Maheshwari Devi; responsible for the eventual split between the Central Administrative Council and the outlying anch satsangs.Sources:Kamta Prasad Sinha wrote several books, including Shabd Sangrah and Prem Samachar. Marvin Henry Harper, Gurus, Swamis, and Avatars ; and Souvenir In Commemoration of the First Centenary of the Radhasoami Satsang (1861-1961).
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1261586192750" HGAP="0" ID="ID_1587694679" MODIFIED="1262649801439" TEXT="Anand Sarup (Sahabji Maharaj)">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -197,8 +193,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Sahabji Maharaj Anand SarupMinistry:1913 to 1937Guru:Brahm Shankar MisraSuccessors:Gur Charan Das Mehta; Gur Das RamCenter:Dayal Bagh, AgraDistinctions:Established Dayal Bagh in 1915; responsible for expanding the Agra banch of Radhasoami into a political and economic force.Sources:Anand Sarup, Diary of Sahabji Maharaj [three volumes]; Yathartha Prakasa [three parts]; and Souvenier.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1261586192750" HGAP="0" ID="ID_95021052" MODIFIED="1262649801439" TEXT="Gur Das Ram Sahab (Huzur Rajji Maharaj)">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -209,8 +204,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Rajji Maharaj Sri Gurdas RamMinistry:Adhyatmik Nagar, Near Village Dasna in the district Ghaziabad, UP, IndiaGuru:Anand SarupSuccessors:Dr. Agam Saran SahabCenter:DasnaDistinctions:Chief rival successor to Gur Charan Das Mehta; author of several English Radhasoami books, including One Truth, One People.Sources:Souvenir (1975); Searchlight ; and One Truth, One People (1940's publication date).
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1262647857877" ID="ID_1606522271" LINK="http://www.radhasoami-faith.org/" MODIFIED="1262649801439" TEXT="Agam Saran Sahab (Dayal Sahab)"/>
 </node>
 <node COLOR="#111111" CREATED="1261586192750" HGAP="0" ID="ID_833833665" MODIFIED="1262649801439" TEXT="Charan Das Mehta">
@@ -223,8 +217,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Mehtaji Gur Charan Das MehtaMinistry:1937 to 1975Guru:Anand SarupSuccessors:Dr. M.B. Lal SahabCenter:Dayal Bagh, AgraDistinctions:Solidified Dayal Bagh's economic and educational system.Sources:Souvenir.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#111111" CREATED="1261586192750" HGAP="0" ID="ID_1955179999" MODIFIED="1262649801439" TEXT="Hari Ram"/>
@@ -240,8 +233,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Thakur Anukul ChandraMinistry:1920's to 1969Guru:Kamta Prasad Sinha[although he is reported by Agam Prasad Mathur and others to have had a spiritual relationship with Madhav Prasad Sinha]Successors:Amarendranath (Baro Khoka)Center:Pabna; DeogharDistinctions:According to Religious Movements in Modern Bengal, Thakur was initiated by Kamta Prasad Sinha (Sarkar Saheb) of the Ghazipur satsang after his mother had written about his yogi tendencies to the Radhasoami guru. Agam Prasd Mathur, who cites S.D. Maheshwari Jeevan Charitra Babuji Maharaj as his source, states that Thakur, along with his mother, attended the satsangs of Madhav Prasad Sinha for many years. The Pabna satsang of Thakur Anukul Chandra has branches throughout India and abroad.Sources:Ray A. Hauserman, Ocean in a Teacup ; Ray Benoy Gopal, Religious Movements in Modern Bengal; and Agam Prasad Mathur's Radhasoami Faith.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1261586192750" HGAP="0" ID="ID_134048411" MODIFIED="1262649801439" TEXT="Amarendranath"/>
 </node>
 </node>
@@ -256,8 +248,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Maharishi Data Dayal Shiv Brat LalMinistry:1898 to 1939 [Most likely did not begin his guru ministry, however, until the beginning of the 20th century]Guru:Rai Salig RamSuccessors:Faqir Chand; Nandhu Singh; and Sheri-Boa Dutt (Pir Munga)Center:Lahore; GopiganjDistinctions:Perhaps the most prolific author in the history of Radhasoami; estimated to have authored over 3,000 books and pamphlets.Sources:Light on Ananda Yoga; Dayal Yoga; and Shabd Yoga.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1261586192765" HGAP="0" ID="ID_1777804273" MODIFIED="1262649801439" TEXT="Sheri-Boa Dut"/>
 <node COLOR="#111111" CREATED="1261586192765" HGAP="0" ID="ID_1890083572" MODIFIED="1262649801439" TEXT="Faqir Chand">
@@ -309,8 +300,18 @@ http://www.msia.org/</p></body></html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1261586192765" HGAP="0" ID="ID_1501656258" MODIFIED="1262649801455" TEXT="Partap Singh">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left"> Ministry:1878 to 1911 [Unclear when he started acting as a guru]Guru:Shiv Dayal SinghSuccessors:Shyam Lal; Sudarshan Singh; and K.A. BavnaniCenter:Soami Bagh, AgraDistinctions:Youngest brother of Shiv Dayal Singh, the founder of Radhasoami. First President of the Central Administrative Council.Sources:Bhaktamal of the Radhasoami Faith; History of the Radhasoami Faith &amp; Tenets; and Biography of Soamiji Maharaj.</p></body></html></richcontent>
+<node COLOR="#00b439" CREATED="1261586192765" HGAP="0" ID="ID_1501656258" MODIFIED="1264302402998" TEXT="Partap Singh">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      &#194;&#160;Ministry:1878 to 1911 [Unclear when he started acting as a guru]Guru:Shiv Dayal SinghSuccessors:Shyam Lal; Sudarshan Singh; and K.A. BavnaniCenter:Soami Bagh, AgraDistinctions:Youngest brother of Shiv Dayal Singh, the founder of Radhasoami. First President of the Central Administrative Council.Sources:Bhaktamal of the Radhasoami Faith; History of the Radhasoami Faith &amp; Tenets; and Biography of Soamiji Maharaj.
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1261586192765" HGAP="0" ID="ID_733558304" MODIFIED="1262649801455" TEXT="Sudarshan Singh">
@@ -343,8 +344,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Ministry:1884 to 1903 [Although Jamail Singh is reported to have started initiating at an earlier date, the name of his first initiates are not available]Guru:Shiv Dayal SinghSuccessors:Sawan Singh; Bagga SinghCenter:Dera Baba Jaimal Singh, BeasDistinctions:Founder of the Beas lineage, the most popular Radhasoami group in the world.Sources:A Great Saint; Spiritual Letters; and Heaven on Earth.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1261586192765" HGAP="0" ID="ID_1694409621" MODIFIED="1262649801455" TEXT="Sawan Singh">
@@ -542,13 +542,12 @@ http://www.myspace.com/friendsalongthepath</p></body></html></richcontent>
       http://meditativezone.com/About_Us.htm
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1261585462828" ID="ID_753005195" MODIFIED="1262649801471" POSITION="left" TEXT="Shabad Misc">
+<node COLOR="#0033ff" CREATED="1261585462828" ID="ID_753005195" MODIFIED="1264302142763" POSITION="left" TEXT="Shabad Misc">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -558,7 +557,8 @@ http://www.myspace.com/friendsalongthepath</p></body></html></richcontent>
       &#194;&#160;Sources:* http://www.ex-premie.org/papers/lineage1.htm &quot;Servants of God: Lives of the 10 Sikh Gurus&quot; by Jon Engle helped quite a bit in this section
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1261585462828" HGAP="0" ID="ID_1184459890" LINK="http://www.ex-premie.org/papers/lineage1.htm" MODIFIED="1262649801471" TEXT="Swarup Anand">
@@ -680,6 +680,10 @@ http://godsdirectcontact.org/</p></body></html></richcontent>
 </node>
 </node>
 </node>
+</node>
+<node COLOR="#00b439" CREATED="1264302142763" ID="ID_1497598637" LINK="http://www.gurumat.com/" MODIFIED="1264302162732" TEXT="Soami santdas ji maharaj">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 </node>
