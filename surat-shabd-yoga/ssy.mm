@@ -41,8 +41,7 @@
       When Darwin Gross resigned from Eckanckar, he formed ATOM&#194;&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_924766965" MODIFIED="1262649801424" TEXT="Harold Klemp (Eckanckar)"/>
 <node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_380719641" LINK="http://atom.org" MODIFIED="1262649801424" TEXT="ATOM">
 <richcontent TYPE="NOTE"><html><head/><body><p align="left">
@@ -72,8 +71,7 @@ http://atom.org</p></body></html></richcontent>
       http://www.thetruth-seeker.com/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#111111" CREATED="1261585970437" HGAP="0" ID="ID_1873319196" LINK="http://www.thewayoftruth.org/" MODIFIED="1262649801424" TEXT="Michael Owens">
 <richcontent TYPE="NOTE"><html>
@@ -103,7 +101,7 @@ http://www.msia.org/</p></body></html></richcontent>
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1261586192750" ID="ID_331464081" MODIFIED="1262649801439" POSITION="left" TEXT="Shiv Dayal Singh (Soami Ji Maharaj)">
+<node COLOR="#0033ff" CREATED="1261586192750" ID="ID_331464081" MODIFIED="1270175064586" POSITION="left" TEXT="Shiv Dayal Singh (Soami Ji Maharaj)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -113,7 +111,8 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Ministry:Mid-1850's to 1878.Guru:Tulsi Sahib of Hathras (according to Beas); no guru (according to Soami Bagh and Dayal Bagh).Successors:Rai Salig Ram; Jaimal Singh; Gharib Das; Sanmukh Das; Partap Singh; and Narayan Dei (Radhaji).Center:Panni Gali and Soami Bagh, Agra.Distinctions:Regarded as the founder of Radhasoami; popularized surat shabd yoga; expressed the teachings of Sant mat in a simplified and easy to understand manner.Sources:Sar Bachan Radhasoami (both the prose and poetry volumes) by Soamiji Maharaj; Biography of Soamiji Maharaj by Chachaji Maharaj [Partap Singh]; and Last Discourse of Soamiji Maharaj and Letters of Soamiji Maharaj &amp; Huzur Maharaj . http://www.radhasoami-faith.info/
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1261586192750" HGAP="0" ID="ID_648550875" MODIFIED="1262649801439" TEXT="Rai Salig Ram (Hazur Maharaj)">
@@ -310,8 +309,7 @@ http://www.msia.org/</p></body></html></richcontent>
       &#194;&#160;Ministry:1878 to 1911 [Unclear when he started acting as a guru]Guru:Shiv Dayal SinghSuccessors:Shyam Lal; Sudarshan Singh; and K.A. BavnaniCenter:Soami Bagh, AgraDistinctions:Youngest brother of Shiv Dayal Singh, the founder of Radhasoami. First President of the Central Administrative Council.Sources:Bhaktamal of the Radhasoami Faith; History of the Radhasoami Faith &amp; Tenets; and Biography of Soamiji Maharaj.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1261586192765" HGAP="0" ID="ID_733558304" MODIFIED="1262649801455" TEXT="Sudarshan Singh">
@@ -557,11 +555,10 @@ http://www.myspace.com/friendsalongthepath</p></body></html></richcontent>
       &#194;&#160;Sources:* http://www.ex-premie.org/papers/lineage1.htm &quot;Servants of God: Lives of the 10 Sikh Gurus&quot; by Jon Engle helped quite a bit in this section
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1261585462828" HGAP="0" ID="ID_1184459890" LINK="http://www.ex-premie.org/papers/lineage1.htm" MODIFIED="1262649801471" TEXT="Swarup Anand">
+<node COLOR="#00b439" CREATED="1261585462828" HGAP="0" ID="ID_1184459890" LINK="http://www.ex-premie.org/papers/lineage1.htm" MODIFIED="1270175068680" TEXT="Swarup Anand">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -571,7 +568,8 @@ http://www.myspace.com/friendsalongthepath</p></body></html></richcontent>
       http://www.ex-premie.org/papers/lineage1.htm
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1261585462828" HGAP="0" ID="ID_1863273788" LINK="http://www.ex-premie.org/papers/cousins.htm" MODIFIED="1262649801471" TEXT="Nangli Sahib">
@@ -589,6 +587,14 @@ http://www.ex-premie.org/papers/cousins.htm</p></body></html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1261585462828" HGAP="0" ID="ID_577435156" MODIFIED="1262649801486" TEXT="Prem Rawat"/>
 </node>
+<node COLOR="#990000" CREATED="1270175068680" ID="ID_117804419" MODIFIED="1270175074993" TEXT=" Atmavivekanand ">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1270175087821" ID="ID_1889161438" MODIFIED="1270175090977" TEXT=" Harsevanand ">
+<node COLOR="#111111" CREATED="1270175098586" ID="ID_434636053" MODIFIED="1270175251305" TEXT="Harshankaranandji ">
+<node COLOR="#111111" CREATED="1270175110649" ID="ID_1134394479" LINK="http://www.gurusantmat.org/" MODIFIED="1270175156258" TEXT="Sarananandji "/>
+</node>
+</node>
+</node>
 </node>
 <node COLOR="#00b439" CREATED="1261585462828" HGAP="0" ID="ID_1091808108" LINK="http://www.godsdirectcontact.org/eng/article/hima.html" MODIFIED="1262649801486" TEXT="Khuda Ji">
 <richcontent TYPE="NOTE"><html>
@@ -603,9 +609,18 @@ http://www.ex-premie.org/papers/cousins.htm</p></body></html></richcontent>
 </html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1261585462828" HGAP="0" ID="ID_1494325999" LINK="http://godsdirectcontact.org/" MODIFIED="1262649801486" TEXT="Supreme Master Ching Hai">
-<richcontent TYPE="NOTE"><html><head/><body><p align="left">
-http://godsdirectcontact.org/</p></body></html></richcontent>
+<node COLOR="#990000" CREATED="1261585462828" HGAP="0" ID="ID_1494325999" LINK="http://godsdirectcontact.org/" MODIFIED="1270175084540" TEXT="Supreme Master Ching Hai">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p align="left">
+      http://godsdirectcontact.org/
+    </p>
+  </body>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
@@ -613,7 +628,7 @@ http://godsdirectcontact.org/</p></body></html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1261585462843" HGAP="0" ID="ID_1613935450" LINK="http://www.geocities.com/santdariya/books.html" MODIFIED="1262649801486" TEXT="Dariya Sahib">
+<node COLOR="#00b439" CREATED="1261585462843" HGAP="0" ID="ID_1613935450" LINK="http://www.geocities.com/santdariya/books.html" MODIFIED="1270175095930" TEXT="Dariya Sahib">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -623,7 +638,8 @@ http://godsdirectcontact.org/</p></body></html></richcontent>
       http://www.geocities.com/santdariya/books.html
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
@@ -634,7 +650,7 @@ http://godsdirectcontact.org/</p></body></html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1261585462843" HGAP="0" ID="ID_1047435907" MODIFIED="1262649801486" TEXT="Maharishi Mehi">
 <node COLOR="#111111" CREATED="1261585462843" HGAP="0" ID="ID_651810773" MODIFIED="1262649801486" TEXT="Santsevi Ji">
-<node COLOR="#111111" CREATED="1261585462843" HGAP="0" ID="ID_1774686466" LINK="http://www.thewayofsages.com" MODIFIED="1262649801486" TEXT="Don and Veena Howard">
+<node COLOR="#111111" CREATED="1261585462843" HGAP="0" ID="ID_1774686466" LINK="http://www.thewayofsages.com" MODIFIED="1270175281243" TEXT="Don and Veena Howard">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -644,7 +660,8 @@ http://godsdirectcontact.org/</p></body></html></richcontent>
       http://www.thewayofsages.com
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
