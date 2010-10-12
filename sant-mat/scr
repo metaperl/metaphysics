@@ -1,0 +1,15 @@
+#!/bin/bash
+
+HG=/home/terry/domains/com/metaperl/hg/santmat-lineages
+LC=/home/terry/domains/org/livingcosmos/santmat
+
+cd $HG; hg update
+cp $HG/* $LC
+
+cd $LC
+./bibtex2html-1.87/bibtex2html santmat.bib
+
+
+
+
+

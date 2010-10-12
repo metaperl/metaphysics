@@ -1,0 +1,40 @@
+.top { 
+       font-family: Arial, Verdana, sans-serif; font-size: 32px;  
+       text-transform: uppercase ;
+
+       width: 100%;
+       border-bottom: medium solid #000000
+       }
+
+.bot { 
+       font-family: Arial, Verdana, sans-serif; font-size: 64px;  
+       text-transform: uppercase ;
+
+       width: 100%;
+       border-top: medium solid #000000
+       }
+
+.section { 
+       border-top: thin solid #000000
+       }
+
+.plainul { list-style-type: none; 
+           background-color: #FF6633;
+           color: #00FFFF;
+}
+
+.title { 
+       font-size: 24px;  
+       width: 100%;
+       }
+
+
+.subtitle { 
+       font-size: 16px;  
+            font-style: italic;
+
+       }
+
+.body { 
+        background-color:#CCFFCC; 
+       }
