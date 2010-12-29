@@ -1,0 +1,101 @@
+
+church mosque temples
+
+- church classification (pub 1828)
+-- organizing document
+-- ecclesiastical history
+
+- others are prayer services
+-- but not a church
+
+- what are implications
+
+- can still be exempt under 501(c)(3) but without a classification as
+  a church
+
+- can donate either way and can take off taxes
+
+- churches do not have to apply for formal exemption as long as they
+  have an organizing document
+
+- annual gross receipts avg more than 
+
+- dont have to file annual informational return
+
+# setting up entity as a trust
+
+# want to be tax-exempt
+
+# must have organizing document
+## must contain certain provisions that it is organized at 501-c-3
+--> see publication 557 for exmaples
+
+# STEPS
+
+## apply for EIN
+
+mon-fri 6am to 12:30am
+sat 6am to 9pm
+sun 7pm to 12am EST
+
+## can open bank account under organization name
+
+## mark type as non-profit (not trust) on the SS-4
+
+# 
+
+## organizing document ****
+
+http://www.irs.gov/charities/charitable/article/0,,id=122670,00.html
+
+### certain things must be in it
+
+as in publication 557
+
+## affiliate organization?
+
+no.
+
+Madre Grande group exemption?
+
+## 5000 in gross income
+
+do not need to apply for formal exemption (no need for 1023)
+
+# 
+
+EIN Assigned: 	27-4392376
+Legal Name: 	GNOSTIC ISOLATION TEMPLE
+
+# advantages of being formally exempt
+
+publication 4220 explains application to being formally exempt.
+
+* gives assurance to contributors
+* official recognition of exemption (same grann
+* exempt from state sales taxes
+* non-profit mailing privileges
+
+in 1023, there have been some changes
+
+application fee is 400.00 or 850.00 one-time
+
+# PUBLICATION
+
+form 4120pc (compliance guide)
+
+due 15th day of 5th month of when accounting year ends
+
+if you do not file a return after 3 consecutive years, your exemption
+will be revoked. only way to get it back
+
+must file 990 series return annually
+- avg income < 50k => file 990n (an electronic postcard)
+IF you have formal exemption. IF NOT, you must give them a call
+
+pub 1771 - donor substantiation guide
+- what you must give to the donor in order for it be charitable
+
+pub 4630 - 
+
+can have irs distribution center mail it to you.
