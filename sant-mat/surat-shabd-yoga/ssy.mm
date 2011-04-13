@@ -84,8 +84,7 @@
       Suma Ching Hai was initiated by the mythical Khuda Ji
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Kabir" ID="ID_1125200052" CREATED="1261585462843" MODIFIED="1262649801486" COLOR="#00b439">
 <font NAME="SansSerif" SIZE="16"/>
@@ -108,8 +107,7 @@
       The 10 Sikh Gurus
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Angad" ID="ID_1325238869" CREATED="1261585462843" MODIFIED="1262649801486" COLOR="#990000">
 <font NAME="SansSerif" SIZE="14"/>
 <node TEXT="Amardas" ID="ID_1393938322" CREATED="1261585462843" MODIFIED="1301340434418" COLOR="#111111">
@@ -161,8 +159,7 @@
       Also see - http://www.adidharma2010.blogspot.com/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Fubbi Quantz" POSITION="right" ID="ID_1659517307" CREATED="1261586400453" MODIFIED="1301345083374" COLOR="#0033ff">
@@ -244,8 +241,7 @@
       the head of the Bhagalpur Ashram which is the main ashram.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Vyasananda" ID="ID_628510308" CREATED="1301430755211" MODIFIED="1301430799680" COLOR="#111111" LINK="http://www.thewayofsages.com/new_page_1.htm">
 <font SIZE="12"/>
@@ -259,8 +255,7 @@
       has an ashram in Dehra Dunn India and Haridwar both located in the state of U.P.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Shri Shridhar Baba" ID="ID_1261781531" CREATED="1301430969307" MODIFIED="1301430983117" COLOR="#111111" LINK="http://www.sadgurumehi.com/book/bookList.html">
 <font SIZE="12"/>
@@ -286,8 +281,7 @@
       some say Shiv Dayal Singh did not have a guru, others say he did - http://en.wikipedia.org/wiki/Surat_Shabd_Yoga#Movements_and_masters
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Radha Soami" POSITION="left" ID="ID_1259260637" CREATED="1301436773550" MODIFIED="1301440842843" COLOR="#0033ff">
@@ -306,8 +300,7 @@
       1818-1878 (not to be mistaken with Shiv Dayal 1846-1919)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Rai (Bahadur) Salig Ram (Saheb)" ID="ID_648550875" CREATED="1261586192750" MODIFIED="1301437257409" COLOR="#990000">
 <font NAME="SansSerif" SIZE="14"/>
 <edge STYLE="bezier" WIDTH="thin"/>
@@ -321,8 +314,7 @@
       (14 March 1829 to 06 Dec.1898)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Radhasoami Dayalbagh" ID="ID_1763194296" CREATED="1301437168319" MODIFIED="1301437184358" COLOR="#111111">
 <font SIZE="12"/>
 <node TEXT="Param Guru Maharaj Sahab (Pt. Brahm Shankar Misra)" ID="ID_98517839" CREATED="1261586192750" MODIFIED="1301437238637" COLOR="#111111">
@@ -337,8 +329,7 @@
       (28 March 1861 to 12 Oct.1907)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Maheshwari Devi" ID="ID_1748790681" CREATED="1261586192750" MODIFIED="1301340434393" COLOR="#111111">
 <font SIZE="12"/>
 <node TEXT="Madhav Prasad Sinha" ID="ID_1220623203" CREATED="1261586192750" MODIFIED="1301340434393" COLOR="#111111">
@@ -372,8 +363,7 @@
       (12 Dec.1871 to 07 Dec.1913)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Hari Ram" ID="ID_1955179999" CREATED="1261586192750" MODIFIED="1301340434398" COLOR="#111111">
 <font SIZE="12"/>
 </node>
@@ -415,8 +405,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Huzur Rajji Maharaj (Shri Gurdas Ram Sahab)" ID="ID_1098511746" CREATED="1301438404507" MODIFIED="1301438781443" COLOR="#111111" LINK="http://www.radhasoami-faith.org/">
 <font SIZE="12"/>
 </node>
@@ -434,8 +423,7 @@
       May,2003 - present
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Param Guru Dr.Satsangi Sahab (Dr.(Prof.) Prem Saran Satsangi)" ID="ID_786722899" CREATED="1301438828665" MODIFIED="1301438834367" COLOR="#111111">
 <font SIZE="12"/>
 </node>
@@ -614,8 +602,7 @@
       (Radhaji), Shiv Dayal Singh's wife, who reportedly initiated women into the path in Agra;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Radhasoami Beas" ID="ID_937394178" CREATED="1301439453530" MODIFIED="1301439459125" COLOR="#990000">
 <font SIZE="14"/>
@@ -714,7 +701,7 @@ she might've been.
 </node>
 </node>
 </node>
-<node TEXT="Ishwari Puri" ID="ID_1328386523" CREATED="1301431127995" MODIFIED="1301431133375" COLOR="#111111" LINK="http://webloader.com/spirituality/ishwar-puri/">
+<node TEXT="Ishwari Puri" ID="ID_1328386523" CREATED="1301431127995" MODIFIED="1302682916100" COLOR="#111111" LINK="http://HazurSawanIshwarPuri.com">
 <font SIZE="12"/>
 </node>
 </node>
@@ -734,8 +721,7 @@ she might've been.
       The founder of Radha Soami Satsang Rajasthan, Ministry from 1944 to 1960
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Sadhu Singh" ID="ID_1083939837" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
 <font SIZE="12"/>
 <node TEXT="Teja Singh" ID="ID_371409747" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
@@ -759,8 +745,7 @@ she might've been.
       ( Dec 26, 1926 - present )
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Hazur Baba Desraj ji" ID="ID_1213388325" CREATED="1301439641098" MODIFIED="1301439681449" COLOR="#111111">
@@ -775,8 +760,7 @@ she might've been.
       also known as The Great Master, Ministry began 1960 to present day.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
