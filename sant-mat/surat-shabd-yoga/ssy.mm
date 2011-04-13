@@ -161,6 +161,22 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Christopher Tims (Order of the Blue Star)" ID="ID_213577472" CREATED="1302683143165" MODIFIED="1302683239963" COLOR="#00b439" LINK="http://www.soundhealing.org/">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      also see http://www.ChristopherTims.com and http://bluestarmysteryschool.net/
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="Fubbi Quantz" POSITION="right" ID="ID_1659517307" CREATED="1261586400453" MODIFIED="1301345083374" COLOR="#0033ff">
 <font SIZE="18"/>
