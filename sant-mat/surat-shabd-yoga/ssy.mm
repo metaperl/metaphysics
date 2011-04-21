@@ -174,8 +174,7 @@
       also see http://www.ChristopherTims.com and http://bluestarmysteryschool.net/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Fubbi Quantz" POSITION="right" ID="ID_1659517307" CREATED="1261586400453" MODIFIED="1301345083374" COLOR="#0033ff">
@@ -241,10 +240,6 @@
 <node TEXT="Don and Veena Howard" ID="ID_1774686466" CREATED="1261585462843" MODIFIED="1301340434418" COLOR="#111111" LINK="http://www.thewayofsages.com">
 <font SIZE="12"/>
 </node>
-</node>
-<node TEXT="Swami Bhagirath Ji Maharaj" ID="ID_374141711" CREATED="1301430605591" MODIFIED="1301430620948" COLOR="#111111" LINK="http://www.sadgurumehi.com/satsangSudha/bhagirath/bhagirathBiography.html">
-<font SIZE="12"/>
-</node>
 <node TEXT="Harinandanbaba" ID="ID_699427375" CREATED="1301430697174" MODIFIED="1301430755222" COLOR="#111111" LINK="the%20head%20of%20the%20Bhagalpur%20Ashram%20which%20is%20the%20main%20ashram.">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
@@ -258,6 +253,10 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+</node>
+<node TEXT="Swami Bhagirath Ji Maharaj" ID="ID_374141711" CREATED="1301430605591" MODIFIED="1301430620948" COLOR="#111111" LINK="http://www.sadgurumehi.com/satsangSudha/bhagirath/bhagirathBiography.html">
+<font SIZE="12"/>
 </node>
 <node TEXT="Vyasananda" ID="ID_628510308" CREATED="1301430755211" MODIFIED="1301430799680" COLOR="#111111" LINK="http://www.thewayofsages.com/new_page_1.htm">
 <font SIZE="12"/>
@@ -366,6 +365,21 @@
 <font SIZE="12"/>
 </node>
 </node>
+</node>
+<node TEXT="Babuji Maharaj" ID="ID_726882758" CREATED="1303392677326" MODIFIED="1303392698734" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      died without an apparent successor
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node TEXT="Param Guru Sarkar Sahab (Sri Kamta Prasad Sinha)" ID="ID_629743138" CREATED="1261586192750" MODIFIED="1301437338507" COLOR="#111111">
 <font SIZE="12"/>
