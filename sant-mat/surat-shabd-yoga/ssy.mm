@@ -86,10 +86,6 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Kabir" ID="ID_1125200052" CREATED="1261585462843" MODIFIED="1262649801486" COLOR="#00b439">
-<font NAME="SansSerif" SIZE="16"/>
-<edge STYLE="bezier" WIDTH="thin"/>
-</node>
 <node TEXT="Dariya Sahib" ID="ID_1613935450" CREATED="1261585462843" MODIFIED="1270175095930" COLOR="#00b439" LINK="http://www.geocities.com/santdariya/books.html">
 <font NAME="SansSerif" SIZE="16"/>
 <edge STYLE="bezier" WIDTH="thin"/>
@@ -378,8 +374,7 @@
       died without an apparent successor
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Param Guru Sarkar Sahab (Sri Kamta Prasad Sinha)" ID="ID_629743138" CREATED="1261586192750" MODIFIED="1301437338507" COLOR="#111111">
 <font SIZE="12"/>
@@ -796,6 +791,29 @@ she might've been.
 </node>
 </node>
 </node>
+</node>
+</node>
+</node>
+<node TEXT="Kabir" POSITION="left" ID="ID_1125200052" CREATED="1261585462843" MODIFIED="1303554568128" COLOR="#0033ff">
+<font NAME="SansSerif" SIZE="18"/>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<node TEXT="Swami Girdharanand Paramhans Ji" ID="ID_1577319882" CREATED="1303554601519" MODIFIED="1303554636357" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="Madhu Paramhans Ji" ID="ID_1747108756" CREATED="1303554640645" MODIFIED="1303554709047" COLOR="#990000" LINK="http://www.sahibbandgi.org/">
+<font SIZE="14"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (1950 - present)
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
