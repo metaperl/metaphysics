@@ -586,6 +586,9 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <node TEXT="Ram Behari Lal" ID="ID_1052485726" CREATED="1261586192765" MODIFIED="1301436790425" COLOR="#111111">
 <font NAME="SansSerif" SIZE="12"/>
+<node TEXT="Gyan Das" ID="ID_13908904" CREATED="1303666522031" MODIFIED="1303666535614" COLOR="#111111">
+<font SIZE="12"/>
+</node>
 </node>
 </node>
 <node TEXT="Sanmukh Das" ID="ID_456433617" CREATED="1261586192765" MODIFIED="1301436790425" COLOR="#990000">
@@ -659,13 +662,49 @@
 <font SIZE="12"/>
 </node>
 </node>
-<node TEXT="Ajaib Singh" ID="ID_814589479" CREATED="1261586192765" MODIFIED="1301340434410" COLOR="#111111" LINK="http://www.ajaib.com/">
+<node TEXT="Ajaib Singh" ID="ID_814589479" CREATED="1261586192765" MODIFIED="1303668436800" COLOR="#111111" LINK="http://www.ajaib.com/">
 <font SIZE="12"/>
-<node TEXT="Sadhu Ram" ID="ID_1142883262" CREATED="1261586192765" MODIFIED="1301340434410" COLOR="#111111" LINK="http://groups.yahoo.com/group/sadhuramjigroup/">
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (? - 1997)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Sadhu Ram" ID="ID_1142883262" CREATED="1261586192765" MODIFIED="1303665676572" COLOR="#111111" LINK="http://groups.yahoo.com/group/sadhuramjigroup/">
 <font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (1944 - present)
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node TEXT="Sirio Carrapa" ID="ID_464042932" CREATED="1262449876070" MODIFIED="1301340434410" COLOR="#111111" LINK="http://www.santbaniashram.it/">
+<node TEXT="Sirio Carrapa" ID="ID_464042932" CREATED="1262449876070" MODIFIED="1303665736603" COLOR="#111111" LINK="http://www.santbaniashram.it/">
 <font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (1952 - present)
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node TEXT="Harbhajan Singh" ID="ID_919827177" CREATED="1261586192765" MODIFIED="1301340434411" COLOR="#111111" LINK="http://www.unity-of-man.org/">
@@ -705,17 +744,89 @@ she might've been.
 <font SIZE="12"/>
 </node>
 </node>
-<node TEXT="Baba Somanath" ID="ID_1189137826" CREATED="1261586192765" MODIFIED="1301340434413" COLOR="#111111">
+<node TEXT="Baba Somanath" ID="ID_1189137826" CREATED="1261586192765" MODIFIED="1303665916630" COLOR="#111111">
 <font SIZE="12"/>
-<node TEXT="Ramamurti Mishra" ID="ID_1659261836" CREATED="1261586192765" MODIFIED="1301340434414" COLOR="#111111">
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (1885 - 1976)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Ramamurti Mishra (Brahmananda Sarasvati)" ID="ID_1659261836" CREATED="1261586192765" MODIFIED="1303665436546" COLOR="#111111" LINK="http://www.anandaashram.org/">
 <font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Doesnt seem to be much L&amp;S going on here anymore..
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Ram Singh" ID="ID_1104634695" CREATED="1303667813904" MODIFIED="1303668583802" COLOR="#111111" LINK="http://www.scribd.com/doc/53735046/Sant-Ram-Singh-Ji-A-Brief-Life-Sketch">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      perhaps can be contacted via
+    </p>
+    <p>
+      Som Ajaib Kripa Ashram
+    </p>
+    <p>
+      Via Guddellla, At P.O. Marimkalpallya
+    </p>
+    <p>
+      Kambadore 515765. Distt. Anantapur, Andhra Pradesh
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Also Fern Monaco is a local initiate of his in the South Florida area.
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node TEXT="Pritam Das" ID="ID_2524600" CREATED="1261586192765" MODIFIED="1301340434414" COLOR="#111111">
 <font SIZE="12"/>
 </node>
-<node TEXT="Shah Mastana Ji" ID="ID_1346970793" CREATED="1261586192765" MODIFIED="1301340434414" COLOR="#111111">
+<node TEXT="Mastana of Baluchistan" ID="ID_1346970793" CREATED="1261586192765" MODIFIED="1303666023690" COLOR="#111111">
 <font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (? - 1960)
+    </p>
+  </body>
+</html>
+</richcontent>
 <node TEXT="Satnam Maharaj" ID="ID_1850612007" CREATED="1261586192765" MODIFIED="1301340434414" COLOR="#111111">
 <font SIZE="12"/>
 </node>
@@ -747,10 +858,22 @@ she might've been.
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Sadhu Singh" ID="ID_1083939837" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
+<node TEXT="Partap Singh" ID="ID_12969482" CREATED="1303666180761" MODIFIED="1303666184489" COLOR="#111111">
 <font SIZE="12"/>
-<node TEXT="Teja Singh" ID="ID_371409747" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
+</node>
+<node TEXT="Hazur Baba Desraj ji" ID="ID_1213388325" CREATED="1301439641098" MODIFIED="1301439681449" COLOR="#111111">
 <font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      also known as The Great Master, Ministry began 1960 to present day.
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Pratap Singh (c)" ID="ID_750327866" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
@@ -773,19 +896,10 @@ she might've been.
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Hazur Baba Desraj ji" ID="ID_1213388325" CREATED="1301439641098" MODIFIED="1301439681449" COLOR="#111111">
+<node TEXT="Sadhu Singh" ID="ID_1083939837" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
 <font SIZE="12"/>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      also known as The Great Master, Ministry began 1960 to present day.
-    </p>
-  </body>
-</html></richcontent>
+<node TEXT="Teja Singh" ID="ID_371409747" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
+<font SIZE="12"/>
 </node>
 </node>
 </node>
@@ -812,8 +926,7 @@ she might've been.
       (1950 - present)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
