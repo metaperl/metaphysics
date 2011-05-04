@@ -674,8 +674,7 @@
       (? - 1997)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Sadhu Ram" ID="ID_1142883262" CREATED="1261586192765" MODIFIED="1303665676572" COLOR="#111111" LINK="http://groups.yahoo.com/group/sadhuramjigroup/">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
@@ -688,8 +687,7 @@
       (1944 - present)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Sirio Carrapa" ID="ID_464042932" CREATED="1262449876070" MODIFIED="1303665736603" COLOR="#111111" LINK="http://www.santbaniashram.it/">
 <font SIZE="12"/>
@@ -703,8 +701,7 @@
       (1952 - present)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Harbhajan Singh" ID="ID_919827177" CREATED="1261586192765" MODIFIED="1301340434411" COLOR="#111111" LINK="http://www.unity-of-man.org/">
@@ -756,8 +753,7 @@ she might've been.
       (1885 - 1976)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Ramamurti Mishra (Brahmananda Sarasvati)" ID="ID_1659261836" CREATED="1261586192765" MODIFIED="1303665436546" COLOR="#111111" LINK="http://www.anandaashram.org/">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
@@ -776,10 +772,9 @@ she might've been.
       Doesnt seem to be much L&amp;S going on here anymore..
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node TEXT="Ram Singh" ID="ID_1104634695" CREATED="1303667813904" MODIFIED="1303668583802" COLOR="#111111" LINK="http://www.scribd.com/doc/53735046/Sant-Ram-Singh-Ji-A-Brief-Life-Sketch">
+<node TEXT="Ram Singh" ID="ID_1104634695" CREATED="1303667813904" MODIFIED="1303669974243" COLOR="#111111" LINK="http://www.scribd.com/doc/53735046/Sant-Ram-Singh-Ji-A-Brief-Life-Sketch">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
 <html>
@@ -787,6 +782,12 @@ she might've been.
     
   </head>
   <body>
+    <p>
+      (? - present)
+    </p>
+    <p>
+      
+    </p>
     <p>
       perhaps can be contacted via
     </p>
@@ -806,14 +807,13 @@ she might've been.
       Also Fern Monaco is a local initiate of his in the South Florida area.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Pritam Das" ID="ID_2524600" CREATED="1261586192765" MODIFIED="1301340434414" COLOR="#111111">
 <font SIZE="12"/>
 </node>
-<node TEXT="Mastana of Baluchistan" ID="ID_1346970793" CREATED="1261586192765" MODIFIED="1303666023690" COLOR="#111111">
+<node TEXT="Shah Mastana of Baluchistan" ID="ID_1346970793" CREATED="1261586192765" MODIFIED="1303670104847" COLOR="#111111">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
 <html>
@@ -825,13 +825,23 @@ she might've been.
       (? - 1960)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Satnam Maharaj" ID="ID_1850612007" CREATED="1261586192765" MODIFIED="1301340434414" COLOR="#111111">
 <font SIZE="12"/>
 </node>
-<node TEXT="Gurbakhsh Singh" ID="ID_575766811" CREATED="1262240645174" MODIFIED="1301340434414" COLOR="#111111" LINK="http://www.spiritualitymba.com/">
+<node TEXT="Gurbakhsh Singh" ID="ID_575766811" CREATED="1262240645174" MODIFIED="1303670022995" COLOR="#111111" LINK="http://www.spiritualitymba.com/">
 <font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (1915 - 1998)
+    </p>
+  </body>
+</html></richcontent>
 <node TEXT="Dasan Das Vakil" ID="ID_321634384" CREATED="1262240685080" MODIFIED="1301340434415" COLOR="#111111">
 <font SIZE="12"/>
 </node>
